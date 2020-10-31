@@ -1,0 +1,605 @@
+{
+        "metadata": "127.0.0.1",
+        "eventlist": [
+	{
+		"eventID": "354CC84F-70BA-2152-7800-E0D7B81DF568",
+		"sessionID": "1a",
+		"timestamp": "07/11/2019",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "DCD08ADD-8B7B-3DE7-85FF-2A26C2EA6DD8",
+		"sessionID": "1a",
+		"timestamp": "12/21/2017",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "E2B8AAB4-8EAB-C80F-1DF8-BBDA14C74EE3",
+		"sessionID": "1a",
+		"timestamp": "11/03/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "32831CAD-7A8B-6FE3-6C48-BB7508019AD0",
+		"sessionID": "1a",
+		"timestamp": "07/09/2018",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "1C74D2B4-7E35-FD44-A6BB-B8AF4ACE0881",
+		"sessionID": "1a",
+		"timestamp": "09/03/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "20966F13-1153-99D6-93E9-6DB8B3AFD281",
+		"sessionID": "1a",
+		"timestamp": "12/19/2017",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "6E84052B-4DA0-56BF-D7B7-2B32CD8D3294",
+		"sessionID": "1a",
+		"timestamp": "02/11/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "C0AAFEFF-3DE3-5119-00C1-6EBD73E968C4",
+		"sessionID": "1a",
+		"timestamp": "04/20/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "2DA7F2DA-2ACA-746B-0FF4-9D572DB54591",
+		"sessionID": "1a",
+		"timestamp": "08/28/2017",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "98C7E7BB-DEB7-3BCC-8B61-B025356AA065",
+		"sessionID": "1a",
+		"timestamp": "08/26/2018",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "3924F126-B0F4-6B33-2845-43C5018F3F2E",
+		"sessionID": "2b",
+		"timestamp": "08/03/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "BED63144-0E10-5D87-0E23-20E8F3CCED9D",
+		"sessionID": "2b",
+		"timestamp": "06/26/2018",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "666935B1-5D69-C3CE-5182-F90B84E3FA7F",
+		"sessionID": "2b",
+		"timestamp": "08/04/2017",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "EB010571-EB68-0470-1EFB-9506F2D99B88",
+		"sessionID": "2b",
+		"timestamp": "04/12/2018",
+		"eventName": "CHANGE"
+	},
+	{
+		"eventID": "6213C73C-E1F1-DCE2-47BD-7282FBF80CC8",
+		"sessionID": "2b",
+		"timestamp": "04/29/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "1DC883D1-8088-D1AF-1BEC-CD4E5010C3F1",
+		"sessionID": "2b",
+		"timestamp": "10/29/2017",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "8382147C-6815-4E6B-4744-E7A6A029A553",
+		"sessionID": "2b",
+		"timestamp": "08/16/2017",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "E3E42451-ED4C-4539-6025-F3D767524EFE",
+		"sessionID": "2b",
+		"timestamp": "02/05/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "3DFBF97E-0E54-517C-16EF-50DFF58ECA8A",
+		"sessionID": "2b",
+		"timestamp": "04/25/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "63F6BA24-8177-FF6E-50F8-BC12616D978F",
+		"sessionID": "2b",
+		"timestamp": "07/10/2019",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "68B43361-ECCC-FC2E-8E32-DDCDE9659696",
+		"sessionID": "3c",
+		"timestamp": "09/20/2017",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "B646CA90-8F3D-790F-F3A5-3AFB3BBF1C1C",
+		"sessionID": "3c",
+		"timestamp": "10/25/2017",
+		"eventName": "CHANGE"
+	},
+	{
+		"eventID": "BF0C043C-1258-7B2A-631D-9299EEBBFDC0",
+		"sessionID": "3c",
+		"timestamp": "11/20/2017",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "3FC84B31-6C95-4FE9-7731-57930DF990EF",
+		"sessionID": "3c",
+		"timestamp": "02/18/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "C5322281-D020-191F-0D5C-039FBCE67591",
+		"sessionID": "3c",
+		"timestamp": "09/21/2018",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "9B61EED9-BED0-3281-9803-21223E708D45",
+		"sessionID": "3c",
+		"timestamp": "01/11/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "95B3C38E-4AF7-4B28-A1FE-FA21031E96FA",
+		"sessionID": "3c",
+		"timestamp": "05/06/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "E357A1C8-3662-42BF-DA34-4F84B89AE3B0",
+		"sessionID": "3c",
+		"timestamp": "09/03/2017",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "7F052249-DFAD-ED08-AC73-C369E87E54E5",
+		"sessionID": "3c",
+		"timestamp": "08/19/2017",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "19BD8616-7698-2DDF-937C-C37AE9099F3A",
+		"sessionID": "3c",
+		"timestamp": "12/06/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "1E857169-8721-C5DC-08C6-EDAB5CF98E4A",
+		"sessionID": "4d",
+		"timestamp": "07/18/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "40A6C489-2D81-80B6-EACC-864A8B9280A4",
+		"sessionID": "4d",
+		"timestamp": "07/16/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "E312C888-5258-8B8F-E1C7-A59EE21A6169",
+		"sessionID": "4d",
+		"timestamp": "01/09/2019",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "8BD8776E-CBCF-0640-C270-851DAF9EC234",
+		"sessionID": "4d",
+		"timestamp": "02/15/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "1CC135CD-F03F-DB73-19B1-AFE6207D9664",
+		"sessionID": "4d",
+		"timestamp": "06/28/2018",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "9C2EB814-25CA-7A98-1D1D-6B1E9C48DA52",
+		"sessionID": "4d",
+		"timestamp": "07/12/2018",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "5E785D7E-1E7D-F59B-67FC-70014B36B589",
+		"sessionID": "4d",
+		"timestamp": "11/11/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "511EBF76-9384-E040-3C2F-4BBC015BEB35",
+		"sessionID": "4d",
+		"timestamp": "01/22/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "5206844C-E9CA-80AF-8A61-272F9196B041",
+		"sessionID": "4d",
+		"timestamp": "10/15/2017",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "E9ADA925-132B-3018-E2B0-710788B3FFFD",
+		"sessionID": "4d",
+		"timestamp": "02/19/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "E754211F-3E25-AEC8-7D29-65B27AD2C218",
+		"sessionID": "5c",
+		"timestamp": "07/05/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "E717F477-BAD1-745C-9A12-850397658A46",
+		"sessionID": "5c",
+		"timestamp": "09/10/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "63EDACB4-C5FA-E04B-3CCC-A7ECE7C4641E",
+		"sessionID": "5c",
+		"timestamp": "10/08/2017",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "7C70C771-EF01-1ADF-4E4A-E347DDF3A0F4",
+		"sessionID": "5c",
+		"timestamp": "12/25/2018",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "BF807957-96ED-E4C1-F922-555E0CFC79CD",
+		"sessionID": "5c",
+		"timestamp": "01/02/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "3F90B942-F68D-974C-E724-BF126902CE71",
+		"sessionID": "5c",
+		"timestamp": "06/03/2018",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "E7C6C4F3-028E-7621-D86E-C17F8EA72243",
+		"sessionID": "5c",
+		"timestamp": "06/17/2019",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "D452AF8F-F9E6-7E79-6497-FEAB744E3D2E",
+		"sessionID": "5c",
+		"timestamp": "05/31/2019",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "ED091B24-B49B-A275-BA03-338BD4E8C3FA",
+		"sessionID": "5c",
+		"timestamp": "07/01/2018",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "11959E7A-A71A-CF62-0166-0A4B55C9B033",
+		"sessionID": "5c",
+		"timestamp": "10/16/2018",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "3298EA6B-0DDD-08C5-C3E8-3C51B5063ADB",
+		"sessionID": "6d",
+		"timestamp": "01/10/2019",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "0F0022E7-AB6F-A425-C5A2-0F589F011F88",
+		"sessionID": "6d",
+		"timestamp": "04/19/2019",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "E0137A09-CA81-82F0-BCA6-C7F86804FECF",
+		"sessionID": "6d",
+		"timestamp": "03/13/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "98E50D64-A9FD-8BF9-2617-1101E86DEFAC",
+		"sessionID": "6d",
+		"timestamp": "02/11/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "4262274A-FE6D-8CE9-26A5-600B3B730E28",
+		"sessionID": "6d",
+		"timestamp": "01/18/2018",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "07048E0C-83B0-6F04-E3EE-FA367D8C2DCB",
+		"sessionID": "6d",
+		"timestamp": "06/28/2019",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "FE95BCA3-96A7-6B2B-3713-A0829A86FC36",
+		"sessionID": "6d",
+		"timestamp": "02/20/2018",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "1F37D92A-B6CA-CECF-736D-4C7B8F85F23A",
+		"sessionID": "6d",
+		"timestamp": "11/26/2017",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "5F454A92-CA8C-1D66-6EDE-F229874BC3E2",
+		"sessionID": "6d",
+		"timestamp": "03/17/2019",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "D5B04217-AC1A-44F9-447A-9A4FF2DE0211",
+		"sessionID": "6d",
+		"timestamp": "06/03/2018",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "8414DC0A-1642-60E7-17C5-8B3B1823D8EA",
+		"sessionID": "7c",
+		"timestamp": "05/14/2019",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "D01FF295-4099-5E97-9F7F-A3F1B811FEBD",
+		"sessionID": "7c",
+		"timestamp": "04/08/2018",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "06619113-66A3-07BD-A585-980F04445CC3",
+		"sessionID": "7c",
+		"timestamp": "11/25/2017",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "8FD24068-93BB-C811-3ADB-E4A044C8181E",
+		"sessionID": "7c",
+		"timestamp": "01/19/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "3CCBD677-0AFA-1FF2-5E5F-9291F388FC0D",
+		"sessionID": "7c",
+		"timestamp": "12/22/2017",
+		"eventName": "CHANGE"
+	},
+	{
+		"eventID": "D7CAB7F3-9582-A2E2-DC94-941DA45C287D",
+		"sessionID": "7c",
+		"timestamp": "01/16/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "DD166467-DEBB-C2F4-5C9B-326131FE979D",
+		"sessionID": "7c",
+		"timestamp": "01/21/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "F47B1B03-F484-B2AD-343E-A78DE7C0AF57",
+		"sessionID": "7c",
+		"timestamp": "12/05/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "07F25C41-659B-9945-4D02-921196BDE5ED",
+		"sessionID": "7c",
+		"timestamp": "08/06/2017",
+		"eventName": "NAVIGATE"
+	},
+	{
+		"eventID": "04B807B4-9AEE-BBBF-7F6A-4828C2E64938",
+		"sessionID": "7c",
+		"timestamp": "07/23/2018",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "50B69E37-F5CE-559E-B3A0-551B8454FCB2",
+		"sessionID": "8hfg",
+		"timestamp": "01/28/2018",
+		"eventName": "CHANGE"
+	},
+	{
+		"eventID": "1123AB1C-B8D1-9D8F-056F-D45794F2E5AF",
+		"sessionID": "8hfg",
+		"timestamp": "09/15/2018",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "7E9AF802-252C-17B5-9244-200911F765AB",
+		"sessionID": "8hfg",
+		"timestamp": "03/04/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "A51EA60A-16A0-ECBC-20D1-8D7B790DE157",
+		"sessionID": "8hfg",
+		"timestamp": "10/01/2017",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "291CD9EA-6B65-36FD-BE8C-AE457BF98601",
+		"sessionID": "8hfg",
+		"timestamp": "05/18/2019",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "5F77B480-24DD-A221-DD5B-DAB4F142E01F",
+		"sessionID": "8hfg",
+		"timestamp": "12/02/2017",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "490846ED-74D4-70C9-7E60-0799980692C0",
+		"sessionID": "8hfg",
+		"timestamp": "11/04/2017",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "EC54C807-46BC-92C5-B812-06241DE9B28F",
+		"sessionID": "8hfg",
+		"timestamp": "05/10/2019",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "4D864ABC-4155-F1F9-6FD7-5988676AEF29",
+		"sessionID": "8hfg",
+		"timestamp": "04/12/2019",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "7A9147D6-8D0B-77B3-2CA4-0BA9398A5E99",
+		"sessionID": "8hfg",
+		"timestamp": "06/11/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "9952F59F-E1B6-0013-81EC-0E4065522732",
+		"sessionID": "9JH",
+		"timestamp": "08/07/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "F9F3EE77-1E75-E93D-8EF9-91249C94F05D",
+		"sessionID": "9JH",
+		"timestamp": "05/25/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "1420BF7B-E73F-5C90-D3D3-3102152DDF4B",
+		"sessionID": "9JH",
+		"timestamp": "12/30/2017",
+		"eventName": "STATEMENT"
+	},
+	{
+		"eventID": "C1226A66-A850-2B9B-9144-5AE2EB929113",
+		"sessionID": "9JH",
+		"timestamp": "04/09/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "6DFC91FA-AB69-2070-EAD5-B71A00D9FDF7",
+		"sessionID": "9JH",
+		"timestamp": "08/16/2018",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "62CB0DC1-C20E-7730-7D06-E6A13DB51A43",
+		"sessionID": "9JH",
+		"timestamp": "01/14/2018",
+		"eventName": "EMAIL"
+	},
+	{
+		"eventID": "192BD167-C4D1-98FD-46B3-396EC09B2507",
+		"sessionID": "9JH",
+		"timestamp": "01/26/2019",
+		"eventName": "CHANGE"
+	},
+	{
+		"eventID": "696EC52C-9845-0D68-8A67-68DC785DF050",
+		"sessionID": "9JH",
+		"timestamp": "11/07/2018",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "631F7C64-5000-9594-38D1-5FA672587936",
+		"sessionID": "9JH",
+		"timestamp": "12/08/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "D323E1A3-B0C1-92D8-3CF8-1B034617B233",
+		"sessionID": "9JH",
+		"timestamp": "11/01/2018",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "84A0F11F-CFCE-E075-AC31-C68ACE1056A0",
+		"sessionID": "101ik",
+		"timestamp": "11/24/2017",
+		"eventName": "LOGIN"
+	},
+	{
+		"eventID": "74897A71-D45F-8CDD-B44F-2F4AD5DC434E",
+		"sessionID": "101ik",
+		"timestamp": "04/03/2019",
+		"eventName": "UPDATE"
+	},
+	{
+		"eventID": "32C6FB50-368F-CBC3-22D8-C6A45C8A4C26",
+		"sessionID": "101ik",
+		"timestamp": "01/26/2019",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "1FC94ECF-4465-09A6-E0E0-7BE04E15AE7E",
+		"sessionID": "101ik",
+		"timestamp": "06/10/2018",
+		"eventName": "FAS"
+	},
+	{
+		"eventID": "7F0FA770-E971-C055-291D-EE576F821E26",
+		"sessionID": "101ik",
+		"timestamp": "05/25/2018",
+		"eventName": "DELETE"
+	},
+	{
+		"eventID": "DD661EB5-0B77-056D-3B90-803B51838A8E",
+		"sessionID": "101ik",
+		"timestamp": "06/06/2018",
+		"eventName": "TRANSFER"
+	},
+	{
+		"eventID": "03ED9375-062B-B38A-5A5E-498ACA53085E",
+		"sessionID": "101ik",
+		"timestamp": "05/09/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "8E0A0BEC-8BB0-C743-5CE9-EDC764A5C626",
+		"sessionID": "101ik",
+		"timestamp": "11/06/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "8C94B886-C781-1351-FC8F-E70813B3602C",
+		"sessionID": "101ik",
+		"timestamp": "02/03/2018",
+		"eventName": "MONEY"
+	},
+	{
+		"eventID": "E5057742-8558-5748-61CD-BEEC956C52F6",
+		"sessionID": "101ik",
+		"timestamp": "03/20/2018",
+		"eventName": "UPDATE"
+	}
+]
+}
